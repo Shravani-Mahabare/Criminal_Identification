@@ -60,4 +60,3 @@ The objective of this project is to develop an automated system capable of ident
 ## Author
 Shravani Mahabare  
 Bachelor of Engineering in Computer Engineering  
-Full Stack Developer
