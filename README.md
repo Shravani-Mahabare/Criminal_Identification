@@ -34,6 +34,7 @@ The application is developed using Python and integrates OpenCV for image proces
 - `criminal_registration.py` – Stores and manages criminal-related data
 - `gui_main.py` / `GUI_master.py` – Main graphical user interface
 - `display.py` – Displays recognition results and outputs
+- `mail.py` – Implements email notification functionality to automatically send alerts when a detected individual is identified as a criminal
 - `trainingdata.yml` – Stores trained model data
 - `haarcascade_frontalface_default.xml` – Pre-trained classifier for face detection
 - Database files (`.db`) – Store user and criminal records
